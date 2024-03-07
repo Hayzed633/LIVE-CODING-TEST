@@ -67,13 +67,26 @@ button {
 }
 .pillar {
     border: 1px solid red;
+    border-radius: 10px;
+    height: 300px;
 }
 .pillar a {
     text-decoration: none;
     text-align: center;
+    padding-top: 150px;
 }
 .pillar a p {
     font-family: 'Times New Roman', Times, serif ;
     font-size: 32px;
     color: #4F0101;
+    padding-top: 120px;
+
+}
+.prophet p {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 32px;
+}
+.instagram {
+    padding-left: 200px;
 }
