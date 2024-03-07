@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.teaching {
+    position: fixed;
+    background-color: white;
+    padding: 10px;
+    margin-top: 20px;
+}
+.hijab img {
+    width: 150px;
+}
+button {
+    border: none;
+}
+.sign p{
+    color: blue;
+    background-color: white;
+    border: 1px solid blue;
+    border-radius: 10px;
+    padding: 5px;  
+}
+.sign p:hover {
+    color: white;
+    background-color: blue;
+}
+.log p {
+    color: white;
+    background-color: blue;
+    border-radius: 10px ;
+    padding: 10px;
+
+}
+.log p:hover {
+    color: blue;
+    background-color: white;
+}
+.why {
+    font-size: 32px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.discover h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+.discover p {
+    font-weight: 700px;
+}
+.fundamental {
+    /* width: 50%; */
+    border-radius: 10px;
+}
+.fundamental img {
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 100px;
+    border-radius: 5px;
+}
+.fundamental p {
+    color: white;
+    font-size: 14px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 20px;
+
+}
+.pillar {
+    border: 1px solid red;
+}
+.pillar a {
+    text-decoration: none;
+    text-align: center;
+}
+.pillar a p {
+    font-family: 'Times New Roman', Times, serif ;
+    font-size: 32px;
+    color: #4F0101;
+}
